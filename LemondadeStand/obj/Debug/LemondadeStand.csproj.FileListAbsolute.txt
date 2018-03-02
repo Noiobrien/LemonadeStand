@@ -1,0 +1,6 @@
+C:\Users\reign\Desktop\Class Exercises\LemondadeStand\LemondadeStand\bin\Debug\LemondadeStand.exe.config
+C:\Users\reign\Desktop\Class Exercises\LemondadeStand\LemondadeStand\bin\Debug\LemondadeStand.exe
+C:\Users\reign\Desktop\Class Exercises\LemondadeStand\LemondadeStand\bin\Debug\LemondadeStand.pdb
+C:\Users\reign\Desktop\Class Exercises\LemondadeStand\LemondadeStand\obj\Debug\LemondadeStand.csprojResolveAssemblyReference.cache
+C:\Users\reign\Desktop\Class Exercises\LemondadeStand\LemondadeStand\obj\Debug\LemondadeStand.exe
+C:\Users\reign\Desktop\Class Exercises\LemondadeStand\LemondadeStand\obj\Debug\LemondadeStand.pdb
